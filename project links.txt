@@ -1,0 +1,7 @@
+🔗 Deployment URL (specific build)
+
+https://arslan-portfolio-k2i5jgq5r-arslanml-devs-projects.vercel.app
+
+🌐 Domain URL (main project link)
+
+https://arslan-portfolio-lac.vercel.app
