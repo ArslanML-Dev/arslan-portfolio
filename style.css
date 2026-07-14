@@ -1465,14 +1465,10 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   padding-left: 14px;
   margin-top: 4px;
 }
-@media (max-width: 768px) {
-  .hobbies-grid {
-    grid-template-columns: 1fr;
-  }
-}
 /* ============================================
    RESPONSIVE
    ============================================ */
+@media (max-width: 768px) {
   .hero {
     grid-template-columns: 1fr;
     padding: 100px 24px 60px;
@@ -1533,6 +1529,9 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   .avatar-core, .photo-frame {
     width: 230px;
     height: 230px;
+  }
+  .hobbies-grid {
+    grid-template-columns: 1fr;
   }
 }
 @media (max-width: 480px) {
